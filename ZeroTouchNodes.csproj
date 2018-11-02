@@ -41,10 +41,12 @@
     </Reference>
     <Reference Include="RevitNodes">
       <HintPath>..\..\..\..\..\..\..\Program Files\Dyna\Dynamo Revit\2\Revit_2018\RevitNodes.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="RevitServices, Version=2.0.1.5056, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Program Files\Dyna\Dynamo Revit\2\Revit_2018\RevitServices.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
