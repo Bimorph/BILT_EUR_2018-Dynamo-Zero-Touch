@@ -21,3 +21,9 @@ C:\Users\Bimorph002\OneDrive - Bimorph Consultancy Ltd\07 Presentations\BILT EUR
 C:\Users\Bimorph002\OneDrive - Bimorph Consultancy Ltd\07 Presentations\BILT EUR 2018\DataSet\ZeroTouchNodes\bin\Debug\ru-RU\RevitNodes.resources.dll
 C:\Users\Bimorph002\OneDrive - Bimorph Consultancy Ltd\07 Presentations\BILT EUR 2018\DataSet\ZeroTouchNodes\bin\Debug\zh-CN\RevitNodes.resources.dll
 C:\Users\Bimorph002\OneDrive - Bimorph Consultancy Ltd\07 Presentations\BILT EUR 2018\DataSet\ZeroTouchNodes\bin\Debug\zh-TW\RevitNodes.resources.dll
+C:\Users\Bimorph002\Documents\GitHub\BILT_EUR_2018-Dynamo-Zero-Touch\bin\Debug\ZeroTouchNodes.dll
+C:\Users\Bimorph002\Documents\GitHub\BILT_EUR_2018-Dynamo-Zero-Touch\bin\Debug\ZeroTouchNodes.pdb
+C:\Users\Bimorph002\Documents\GitHub\BILT_EUR_2018-Dynamo-Zero-Touch\obj\Debug\ZeroTouchNodes.csprojAssemblyReference.cache
+C:\Users\Bimorph002\Documents\GitHub\BILT_EUR_2018-Dynamo-Zero-Touch\obj\Debug\ZeroTouchNodes.csproj.CoreCompileInputs.cache
+C:\Users\Bimorph002\Documents\GitHub\BILT_EUR_2018-Dynamo-Zero-Touch\obj\Debug\ZeroTouchNodes.dll
+C:\Users\Bimorph002\Documents\GitHub\BILT_EUR_2018-Dynamo-Zero-Touch\obj\Debug\ZeroTouchNodes.pdb
